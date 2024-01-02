@@ -7,8 +7,11 @@ spellcheck_latin.py -<filetype> -f <file>
 
 Where filetype is:
 -t Plain text
+
 -g GABC file
+
 -l LaTeX file
+
 -li LaTeX external file
 
 Use extras.txt to add any additional words.
